@@ -20,7 +20,7 @@ La Arquitectura de software utilizada es la arquitectura de N-Capas, en el cual 
 - Spring Boot
 - Lombok
 - JPA/Hibernate
-- Base de datos (ej. MySQL, PostgreSQL, H2)
+- Base de datos MySQL
 - Maven
 
 ## 🚀 Instalación y ejecución
@@ -99,3 +99,8 @@ Content-Type: application/json
   ```
   DELETE /api/v1/products/{id}/deactivate
   ```
+## 📄 Documentación Swagger
+
+Elaborado con Swagger
+
+![image](https://github.com/user-attachments/assets/a305c5dc-caed-434d-82f4-b3a6bc1bb984)
